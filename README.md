@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/16945627/39958539-d2cf779c-561d-11e8-96a8-ffc3a595be8b.gif)](https://rishavchanda.io)
+[![MasterHead]([https://user-images.githubusercontent.com/16945627/39958539-d2cf779c-561d-11e8-96a8-ffc3a595be8b.gif](https://user-images.githubusercontent.com/16945627/39958538-d2ad2eb2-561d-11e8-8f45-38ae361de4e2.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dibakar Roy Sarkar</h1>
 <h3 align="center">A passionate researcher from India</h3>
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/8af67f_70b8bc06a9fb421495eafac438ac7b18~mv2.gif">
+<img align="right" alt="Coding" width="400" src="[https://static.wixstatic.com/media/8af67f_70b8bc06a9fb421495eafac438ac7b18~mv2.gif](https://www.lusas.com/case/bridge/images/ani_bebo_dobwalls_rslt_displacement.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roydibs&label=Profile%20views&color=0e75b6&style=flat" alt="roydibs" /> </p>
 
