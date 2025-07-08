@@ -31,7 +31,7 @@ I am a PhD student at Johns Hopkins University specializing in **Scientific Mach
 <div align="center">
 
 ### Neural Network Training for Physics-Informed DeepONet
-<img src="neural-network-training.gif" width="400" alt="Physics-Informed Neural Network Training">
+<img src="NN_training.gif" width="400" alt="Physics-Informed Neural Network Training">
 
 ### PDE Solution Evolution via Neural Operators  
 <img src="pde-solution-evolution.gif" width="400" alt="Heat Equation Solution Using DeepONet">
