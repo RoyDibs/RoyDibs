@@ -2,7 +2,7 @@
 
 **PhD Student in Scientific Machine Learning | Johns Hopkins University**  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/dibakar-roy-sarkar](https://www.linkedin.com/in/dibakar-roy-sarkar/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibakar-roy-sarkar/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:droysar1@jh.edu)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Sz4nHdYAAAAJ&hl=en)
 
