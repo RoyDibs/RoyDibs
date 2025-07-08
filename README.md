@@ -100,6 +100,6 @@ I'm passionate about pushing the boundaries of AI in scientific computing and wo
 
 <div align="center">
 
-*"Building the next generation of AI systems that understand physics as well as they understand language."*
+*"Developing neural operators that make solving complex physics as scalable as processing language—enabling real-time simulation of everything from brain injuries to spacecraft dynamics."*
 
 </div>
