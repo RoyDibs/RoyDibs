@@ -37,7 +37,7 @@ I am a PhD student at Johns Hopkins University specializing in **Scientific Mach
 <img src="pde_simulation.gif" width="400" alt="Heat Equation Solution Using DeepONet">
 
 ### Reinforcement Learning Control of Kuramoto-Sivashinsky PDE
-<img src="rl-pde-control.gif" width="400" alt="RL-based Control of Chaotic PDE System">
+<img src="rl_control.gif" width="400" alt="RL-based Control of Chaotic PDE System">
 
 </div>
 
