@@ -24,7 +24,7 @@
 
 ## About Me
 
-I am a PhD student at Johns Hopkins University specializing in **Scientific Machine Learning** with a focus on developing scalable neural architectures for solving complex physical systems. My research bridges the gap between machine learning and computational physics, with applications ranging from biomedical modeling to large-scale PDE solutions.
+I am a PhD student at Johns Hopkins University specializing in **Scientific Machine Learning** with a focus on developing scalable neural architectures for solving complex physical systems and addressing inverse and control problems. My research bridges the gap between machine learning and computational physics, with applications ranging from biomedical modeling to large-scale PDE solutions.
 
 ## Research Demonstrations
 
@@ -39,38 +39,21 @@ I am a PhD student at Johns Hopkins University specializing in **Scientific Mach
 ### Reinforcement Learning Control of Kuramoto-Sivashinsky PDE
 <img src="rl_control_animation.gif" width="400" alt="RL-based Control of Chaotic PDE System">
 
-</div>
-
-**How to create these GIFs:**
-1. Open the HTML animations I created above
-2. Use screen recording software (OBS, LICEcap, or browser extensions)
-3. Record 10-15 seconds of each animation
-4. Save as GIF and upload to your GitHub repository
-
-**Alternative Sources for Scientific ML Animations:**
-- [ML Animated Repository](https://github.com/markhliu/ml_animated) - Professional ML training visualizations
-- [Neural Operator Demos](https://zongyi-li.github.io/neural-operator/) - FNO and PINO examples
-- [VisualPDE Interactive](https://visualpde.com/basic-pdes/wave-equation.html) - Live PDE simulations
-- [Physics-Informed Learning Demos](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/DL2/Dynamical_Neural_Networks/Complete_DNN_2_2.html) - Comprehensive tutorials
 
 ## Research Focus
 
 🧠 **Neural Operators & Physics-Informed ML**
-- DeepONet architectures for operator learning
+- Neural operator architectures for operator learning
 - Physics-Informed Neural Networks (PINNs) 
 - Physics-Informed DeepONet for multi-physics problems
 - Graph neural networks for complex geometries
-
-🏆 **Competition Achievements**
-- **3rd Place** - NASA & DNV Challenge on Optimization Under Uncertainty
-  - Developed LightGBM models for uncertainty quantification
-  - Implemented differential evolution for robust optimization
 
 🔬 **Current Research Projects**
 - **Traumatic Brain Injury Modeling**: Large-scale brain tissue simulation using neural operators
 - **High-Dimensional PDE Solving**: Scalable algorithms for complex partial differential equations
 - **Inverse Operator Learning**: Novel architectures for system parameter identification
-- **Differential Predictive Control**: Combining RL with physics-informed models for PDE control problems
+- **Differential Predictive Control**: DPC for PDE control problems
+- **Reinforcement learning**: Reinforcement leanrning for high dimensional control of PDE problems
 
 ## Technical Expertise
 
@@ -80,13 +63,13 @@ I am a PhD student at Johns Hopkins University specializing in **Scientific Mach
 - Multi-GPU and Multi-Node Distributed Computing
 - Uncertainty Quantification & Optimization
 - Reinforcement Learning for Control
+- Differential predictive controls
 
 **Programming & Tools**
 - **Languages**: Python, MATLAB, Java
-- **ML Frameworks**: PyTorch, TensorFlow, scikit-learn
-- **Scientific Computing**: NumPy, SciPy, FEniCS
-- **Visualization**: Matplotlib, Blender
-- **Others**: OpenCV, Adobe Creative Suite
+- **ML Frameworks**: Jax, PyTorch, scikit-learn
+- **Scientific Computing**: NumPy, SciPy, FEniCS, deal.ii
+- **Visualization**: Matplotlib, Visit
 
 ## Research Impact
 
@@ -95,62 +78,23 @@ I am a PhD student at Johns Hopkins University specializing in **Scientific Mach
 - Building robust uncertainty quantification frameworks for scientific applications
 - Advancing control theory through physics-informed reinforcement learning
 
-## Research Impact & Open Source Contributions
-
-### Key Repositories
-- 🔥 **[Physics-Informed-DeepONet](https://github.com/yourusername/physics-informed-deeponet)** - PINN+DeepONet for complex PDEs ⭐ 127 Stars | 🍴 34 Forks
-- 🧠 **[Brain-Injury-Neural-Operators](https://github.com/yourusername/brain-injury-modeling)** - Large-scale TBI simulation framework ⭐ 89 Stars | 🍴 23 Forks  
-- 🏆 **[NASA-DNV-Optimization](https://github.com/yourusername/nasa-dnv-challenge)** - 3rd place: LightGBM + Differential Evolution ⭐ 156 Stars | 🍴 45 Forks
-- ⚡ **[Scalable-Neural-PDE-Solvers](https://github.com/yourusername/scalable-neural-pde)** - Multi-GPU neural operators ⭐ 203 Stars | 🍴 67 Forks
-- 🎮 **[RL-PDE-Control](https://github.com/yourusername/rl-pde-control)** - Deep RL for differential control ⭐ 98 Stars | 🍴 28 Forks
-- 📊 **[High-Dim-PDE-Benchmarks](https://github.com/yourusername/high-dim-pde-benchmarks)** - Comprehensive PDE solver comparisons ⭐ 142 Stars | 🍴 38 Forks
-
-### Research Impact Metrics
-- **2,000+** GitHub stars across scientific ML repositories
-- **800+** Total forks and community contributions  
-- **15+** Publications in neural operators and scientific ML
-- **Multi-GPU scaling** achieved 100x speedup over traditional methods
-- **Cross-institutional collaboration** with NASA, DNV, and medical research centers
-
-## Amazon AI Fellowship Alignment
-
-My research directly aligns with Amazon's AI initiatives in:
-- **Scalable ML Systems**: Developing neural operators that scale to thousands of GPUs
-- **Scientific Computing**: Applying AI to solve real-world physics and engineering problems  
-- **Uncertainty Quantification**: Building robust AI systems for high-stakes applications
-- **Applied Research**: Translating theoretical advances into practical solutions
-
 ---
 
 ## Recent Highlights
 
-- 🏆 **3rd Place** - NASA & DNV Challenge on Optimization Under Uncertainty (2024)
-  - Developed novel LightGBM ensemble for uncertainty quantification 
+- 🏆 **3rd Place** - NASA & DNV Challenge on Optimization Under Uncertainty (2025)
+  - Utilized LightGBM ensemble for uncertainty quantification 
   - Implemented adaptive differential evolution for robust optimization
-  - Achieved 15% improvement over benchmark methods
 
-- 🧠 **Breakthrough Research** - First scalable neural operator for traumatic brain injury modeling
-  - Published approach in *Journal of Computational Physics* (under review)
-  - Enabled real-time simulation of 3D brain tissue mechanics
-  - Collaboration with Johns Hopkins School of Medicine
-
-- ⚡ **Performance Achievement** - 100x speedup over traditional finite element methods
-  - Distributed training across 64 GPUs using custom data parallelism
-  - Novel operator architecture reduces memory complexity from O(n³) to O(n log n)
-  - Featured in *Nature Machine Intelligence* special issue (pending)
-
-- 🤝 **Open Source Impact** - Leading contributor to scientific ML ecosystem
-  - Core developer of DeepONet framework extensions
-  - 500+ GitHub contributions in scientific computing repositories
-  - Mentoring 3 undergraduate researchers in neural operator development
+- Mentoring 3 students (undergrad, graduate and high school) in operator learning, PINNs and RAG based agent development.
 
 ## Let's Connect
 
 I'm passionate about pushing the boundaries of AI in scientific computing and would love to discuss research collaborations, open source contributions, or opportunities in applied AI research.
 
-📧 **Email**: dibs5019@gmail.com  
+📧 **Email**: droysar1@jh.edu 
 🏛️ **Institution**: Johns Hopkins University  
-🔬 **Research Group**: Scientific Machine Learning Lab
+🔬 **Research Group**: Centrum IntelliPhysics
 
 ---
 
