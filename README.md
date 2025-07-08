@@ -25,7 +25,7 @@
 
 I am a PhD student at Johns Hopkins University specializing in **Scientific Machine Learning** with a focus on developing scalable neural architectures for solving complex physical systems and addressing inverse and control problems. My research bridges the gap between machine learning and computational physics, with applications ranging from biomedical modeling to large-scale PDE solutions.
 
-## Research Demonstrations
+## Research Interests
 
 <div align="center">
 
