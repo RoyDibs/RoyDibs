@@ -41,6 +41,7 @@ I am a PhD student at Johns Hopkins University specializing in **Scientific Mach
 
 ## Research Focus
 
+<div align="left">
 🧠 **Neural Operators & Physics-Informed ML**
 - Neural operator architectures for operator learning
 - Physics-Informed Neural Networks (PINNs) 
