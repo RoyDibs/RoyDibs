@@ -12,13 +12,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roydibs&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roydibs&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roydibs&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roydibs&show_icons=true&theme=default&hide_border=true&count_private=true&t=${Date.now()})
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roydibs&layout=compact&theme=default&hide_border=true&t=${Date.now()})
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roydibs&theme=default&hide_border=true&t=${Date.now()})
 
 </div>
-
 ---
 
 ## About Me
