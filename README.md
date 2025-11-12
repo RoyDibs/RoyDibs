@@ -12,9 +12,20 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roydibs&show_icons=true&theme=default&hide_border=true&count_private=true&t=${Date.now()})
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roydibs&layout=compact&theme=default&hide_border=true&t=${Date.now()})
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roydibs&theme=default&hide_border=true&t=${Date.now()})
+<!-- GitHub Stats -->
+<a href="https://github.com/roydibs">
+  <img src="https://github-readme-stats.vercel.app/api?username=roydibs&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&t=${Date.now()}" alt="GitHub Stats"/>
+</a>
+
+<!-- Top Languages -->
+<a href="https://github.com/roydibs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roydibs&layout=compact&theme=default&hide_border=true&t=${Date.now()}" alt="Top Languages"/>
+</a>
+
+<!-- GitHub Streak -->
+<a href="https://github.com/roydibs">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roydibs&theme=default&hide_border=true&t=${Date.now()}" alt="GitHub Streak"/>
+</a>
 
 </div>
 ---
